@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(67, 61, 61);
+}
+
+.container {
+    text-align: center;
+    margin-top: 60px;
+}
+
+h1 {
+    font-family: high tower text;
+    font-size: 60px;
+    color: rgb(47, 188, 15);
+}
+
+p {
+    font-family: high tower text;
+    font-size: 20px;
+    color: red;
+}
+
+img {
+    width: auto;
+    height: 150px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 80px;
+}
+
+footer a {
+    color: rgb(47, 188, 15);
+    font-family: high tower text;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.dice-class {
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
